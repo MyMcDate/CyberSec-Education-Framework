@@ -1,0 +1,25 @@
+# CyberSec Framework Requirements
+# Educational Cybersecurity Toolkit Dependencies
+
+# Core framework dependencies
+colorama>=0.4.6
+requests>=2.31.0
+
+# Network and security modules
+python-nmap>=0.7.1
+scapy>=2.5.0
+dnspython>=2.4.0
+python-whois>=0.8.0
+
+# Data analysis and visualization
+matplotlib>=3.7.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web testing dependencies
+beautifulsoup4>=4.12.0
+urllib3>=2.0.0
+
+# Additional utilities
+psutil>=5.9.0
+cryptography>=41.0.0
